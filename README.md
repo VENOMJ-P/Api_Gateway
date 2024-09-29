@@ -97,11 +97,3 @@ The API Gateway routes requests to the following services:
 ## Logging
 
 The API Gateway uses the `morgan` library to log incoming requests in the "combined" format, which provides detailed information about each request.
-
-## Contributing
-
-Contributions are welcome! Please create an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
