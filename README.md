@@ -12,8 +12,6 @@ This is an API Gateway implemented using Node.js and Express. It acts as a singl
 - [Authentication Middleware](#authentication-middleware)
 - [Services](#services)
 - [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
